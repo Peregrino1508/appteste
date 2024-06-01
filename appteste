@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.2",
+  "Version": "0.0.3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -42,16 +42,6 @@
       "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "static.r4you.co",
       "TlsIP": "104.26.5.175",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💙TIM [SSL 3]",
-      "FLAG": "tim",
-      "Payload": "GET ws://emartim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "emartim.com.br",
-      "TlsIP": "104.21.27.243",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
