@@ -1,5 +1,5 @@
 {
-  "Version": "2",
+  "Version": "3",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -27,14 +27,14 @@
   ],
   "Networks": [
     {
-      "Name": "💙TIM [SSL 2]",
+      "Name": "🟣VIVO SECURY 01 TEST🟣",
       "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
+      "Payload": "[delay_split]ACL http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "177.153.59.224",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
     },
     {
       "Name": "💙TIM [SSL 3]",
