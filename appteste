@@ -52,7 +52,7 @@
       "Payload": "[split][lf] TRACE / HTTP/2.0\n\n [host_port][protocol][crlf][auth]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "br3.betao.shop",
+      "ProxyIP": "secury.r6aresix.net",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -62,7 +62,7 @@
       "Payload": "[split][lf] TRACE / HTTP/2.0\n\n [host_port][protocol][crlf][auth]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "br3.betao.shop",
+      "ProxyIP": "secury.r6aresix.net",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
