@@ -1,5 +1,5 @@
 {
-  "Version": "11",
+  "Version": "12",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -45,26 +45,6 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    },
-    {
-      "Name": "VIVO PRE 10 TESTE",
-      "FLAG": "vivo",
-      "Payload": "[split][lf] TRACE / HTTP/2.0\n\n [host_port][protocol][crlf][auth]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "secury.r6aresix.net",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO PRE 11 BTESTE",
-      "FLAG": "vivo",
-      "Payload": "[split][lf] TRACE / HTTP/2.0\n\n [host_port][protocol][crlf][auth]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "secury.r6aresix.net",
-      "ProxyPort": "80",
-      "Info": "Proxy"
     },
     {
       "Name": "❤️CLARO [SSL 3]",
