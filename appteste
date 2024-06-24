@@ -1,5 +1,5 @@
 {
-  "Version": "12",
+  "Version": "13",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -37,14 +37,14 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM [SSL 4]💙",
+      "Name": "💙Tim Front💙",
       "FLAG": "tim",
-      "Payload": "GET ws://cutim.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "cutim.com.br",
-      "TlsIP": "104.21.4.149",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "checkout.timlive.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "❤️CLARO [SSL 3]",
