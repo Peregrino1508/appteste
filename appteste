@@ -1,5 +1,5 @@
 {
-  "Version": "31",
+  "Version": "32",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -25,10 +25,10 @@
       "PASS": ""
     },
     {
-      "Name": "SERVIDOR TIM S.V",
+      "Name": "SERVIDOR TIM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "dbfvf06tk4sh1.cloudfront.net",
+      "ServerIP": "checkout.timlive.tim.com.br",
       "CheckUser": "http://200.9.154.223:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
