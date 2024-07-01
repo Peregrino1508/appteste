@@ -48,7 +48,7 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM FRONT VL💙",
+      "Name": "💙TIM FRONT SALDO VALIDO💙",
       "FLAG": "tim",
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
