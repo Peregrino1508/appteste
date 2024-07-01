@@ -1,5 +1,5 @@
 {
-  "Version": "26",
+  "Version": "27",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -18,17 +18,6 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "secury.r6aresix.net",
-      "CheckUser": "http://200.9.154.223:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    {
-    }
-      "Name": "SERVIDO TIM TESTE",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "dbfvf06tk4sh1.cloudfront.net",
       "CheckUser": "http://200.9.154.223:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
