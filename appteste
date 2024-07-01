@@ -1,5 +1,5 @@
 {
-  "Version": "27",
+  "Version": "28",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -43,16 +43,6 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "checkout.timlive.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "💙TIM FLARE SALDO VALIDO💙",
-      "FLAG": "tim",
-      "Payload": "ACL wss://secury.r6aresix.net HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.154.143",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
