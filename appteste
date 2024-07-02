@@ -1,5 +1,5 @@
 {
-  "Version": "34",
+  "Version": "35",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -55,7 +55,7 @@
       "TlsIP": "",
       "ProxyIP": "checkout.timlive.tim.com.br",
       "ProxyPort": "80",
-      "Info": "Proxy"
+      "Info": "Direct"
     },
     {
       "Name": "❤️CLARO [SSL 3]",
