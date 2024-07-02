@@ -1,5 +1,5 @@
 {
-  "Version": "33",
+  "Version": "34",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -48,9 +48,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM FRONT SV💙",
+      "Name": "💙TIM FRONT💙",
       "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "checkout.timlive.tim.com.br",
