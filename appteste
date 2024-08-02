@@ -1,6 +1,6 @@
 {
-  "Version": "36",
-  "ReleaseNotes": "Nova Atualização Disponível",
+  "Version": "37",
+  "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
   "EmailFeedback": "osprepara2@gmail.com",
@@ -54,6 +54,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "checkout.timlive.tim.com.br",
+      "ProxyPort": "80",
+      "Info": "Direct"
+    },
+    {
+      "Name": "💙TIM FRONT S.VALIDO 2💙",
+      "FLAG": "tim",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "launches.appsflyer.com",
       "ProxyPort": "80",
       "Info": "Direct"
     },
