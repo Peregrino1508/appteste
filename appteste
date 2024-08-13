@@ -1,5 +1,5 @@
 {
-  "Version": "37",
+  "Version": "38",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -60,12 +60,12 @@
     {
       "Name": "💙TIM FRONT S.VALIDO 2💙",
       "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: launches.appsflyer.com[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "PATCH / HTTP/1.1[crlf]Host: secury.r6aresix.net[crlf]X-Forward-Host: secury.r6aresix.net[crlf] wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]#[delay_split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: secury.r6aresix.net[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: sp.secury.r6aresix.net[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@vonomSeuLindo[crlf][crlf]#[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: secury.r6aresix.net[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@GurusSSH[crlf][crlf]#CONNECT / HTTP/1.9[crlf]host: ajuda.c6bank.com.br[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]#CONNECT / HTTP/1.9[crlf]host: [host][crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: [host][crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]#ACL wss://[host] HTTP/1.1[lf]Host: [rotate=google.es;www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net][lf]Upgrade: Websocket[lf][split][lf]#ACL / HTTP/1.1[crlf]Host: [rotate=cdnjs.cloudflare.com;aceitedigital.vivo.com.br;api.vivo.com.br;gateway.ipfs.cloudflare.com][crlf ][delay_split]ACL/HTTP/1.1[crlf]Host: www.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL/HTTP/1.1[crlf]Host: secury.r6aresix.net[crlf] Atualização: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]#ACL / HTTP/1.3[crlf]Host: mtls.sandbox.c6bank.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: secury.r6aresix.net[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "launches.appsflyer.com",
+      "ProxyIP": "141.193.213.11#172.67.74.152#104.19.241.93#104.18.28.182#104.19.239.25#172.64.154.143#104.18.99.70#104.16.53.111#104.18.28.182#104.16.51.111#104.18.29.182#104.16.53.111#104.19.241.93#104.19.240.93#172.64.154.143#104.16.239.166#104.18.33.113#104.16.239.0#104.16.239.1#104.16.239.2#104.16.239.3#104.16.239.4#104.16.18.94#104.16.51.100#atendimento.lojadointer.com.br#support.deezer.com#unpkg.com#104.17.64.225#166.0.196.175#104.19.239.25#104.19.241.25#166.0.196.175#104.18.99.70#www.timex.com#static.addtoany.com#www.teamworkonline.com#www.ufcstore.com#104.19.240.25#104.18.26.160#104.16.237.16#104.19.243.25#104.18.28.181#104.19.237.25#tinyurl.com#209.14.68.35",
       "ProxyPort": "80",
-      "Info": "Direct"
+      "Info": "Proxy"
     },
     {
       "Name": "❤️CLARO [SSL 3]",
