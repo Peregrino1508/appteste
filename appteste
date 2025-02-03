@@ -1,5 +1,5 @@
 {
-  "Version": "41",
+  "Version": "42",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -53,7 +53,7 @@
       "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: ofertapravocefqa.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "ofertapravocefqa.tim.com.br",
+      "ProxyIP": "108.139.113.114",
       "ProxyPort": "80",
       "Info": "Direct"
     },
