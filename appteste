@@ -48,12 +48,12 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💙TIM FRONT SV💙",
+      "Name": "💙TIM FRONT💙",
       "FLAG": "tim",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: checkout.timlive.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]/ [crlf]Host: ofertapravocefqa.tim.com.br[crlf] [crlf]GET / HTTP/1.1[lf]Host: dbfvf06tk4sh1.cloudfront.net [crlf]Connection: Upgrade[lf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "checkout.timlive.tim.com.br",
+      "ProxyIP": "ofertapravocefqa.tim.com.br",
       "ProxyPort": "80",
       "Info": "Direct"
     },
