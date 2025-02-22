@@ -1,5 +1,5 @@
 {
-  "Version": "43",
+  "Version": "44",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -28,7 +28,7 @@
       "Name": "SERVIDOR TIM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "ofertapravocefqa.tim.com.br",
+      "ServerIP": "bounce.mail.planos.tim.com.br",
       "CheckUser": "http://200.9.154.223:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
