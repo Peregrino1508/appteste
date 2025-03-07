@@ -1,5 +1,5 @@
 {
-  "Version": "48",
+  "Version": "49",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -40,7 +40,7 @@
     {
       "Name": "🟣VIVO SECURY 01🟣",
       "FLAG": "tim",
-      "Payload": "[split]ACL / HTTP/1.1[crlf]Upgrade: Websocket[lf]Host: aquarius.vivo.com.br[crlf]/[crlf]PATCH / HTTP/1.1[crlf]Host: lynx.vivo.com.br[crlf]Upgrade: Websocket[crlf][crlf",
+      "Payload": "[delay_split]CONNECT http://i.vivo.ddivulga.com/i/gp/ HTTP/1.1[crlf][split]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.59.224",
