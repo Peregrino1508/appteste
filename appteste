@@ -1,5 +1,5 @@
 {
-  "Version": "53",
+  "Version": "54",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -65,7 +65,7 @@
       "TlsIP": "",
       "ProxyIP": "188.114.99.229",
       "ProxyPort": "443",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "❤️CLARO [SSL 3]",
