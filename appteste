@@ -1,5 +1,5 @@
 {
-  "Version": "52",
+  "Version": "53",
   "ReleaseNotes": "Nova Atualização Disponível (Tim Front 2)",
   "UrlUpdate": "https://raw.githubusercontent.com/Peregrino1508/appteste/main/appteste",
   "Sms": "gfgfggdtggb",
@@ -63,7 +63,7 @@
       "Payload": "GET / HTTP/1.1[lf]Host: r6.r6aresix.site[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "r6.r6aresix.site",
       "TlsIP": "",
-      "ProxyIP": "188.114.99.229#188.114.98.229#104.26.12.205#104.26.13.205#172.67.74.152",
+      "ProxyIP": "188.114.99.229",
       "ProxyPort": "443",
       "Info": "Proxy"
     },
